@@ -22,7 +22,6 @@
             android:layout_height="wrap_content"
             android:text="BONES"
             android:textSize="20sp"
-            android:gravity="center"
-            android:textColor="@color/yellow"/>
+            android:gravity="center"/>
     </LinearLayout>
 </LinearLayout>

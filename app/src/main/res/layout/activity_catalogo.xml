@@ -18,10 +18,10 @@
         android:text="Peliculas &amp; series"
         android:textColor="@color/yellow"
         android:textSize="20sp"
-        android:textStyle="bold"/>
+        android:textStyle="bold" />
 
     <GridView
-        android:id="@+id/gridView_catalogo"
+        android:id="@+id/gridView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:numColumns="3"
